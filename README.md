@@ -1,2 +1,2 @@
 # Hacktoberfest-project
-For Hacktoberfest event
+For the Hacktoberfest event
